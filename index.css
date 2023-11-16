@@ -376,6 +376,7 @@
         column-gap: 28px;
         grid-template-columns: 355px 352px;
         grid-template-rows: 95px 340px auto;
+        /* row-gap: 20px; */
         grid-template-areas: 
         "title website" 
         "image paragraphs" 
@@ -386,7 +387,8 @@
     .place__title {
         font-size: 42px;
         line-height: 46px;
-        margin-bottom: 46px;
+        margin-bottom: 48px;
+        /* margin-bottom: 46px; */
         width: 340px;
         height: 46px;
         grid-area: title;

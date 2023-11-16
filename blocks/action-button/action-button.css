@@ -1,0 +1,50 @@
+.action-button {
+    margin-top: 7px;
+    margin-bottom: 36px;
+    width:288px;
+    border-radius: 4px;
+    background: #0278fe;
+    text-decoration: none;
+    padding: 16px 22px 15px 21px;
+    display: block;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16.94px;
+}
+
+.action-button:hover {
+    opacity: 80%;
+}
+
+.action-button_place_cover {
+    z-index: 1;
+    position: static;
+    font-size: 18px;
+    line-height: 21.78px;
+    width: 198px;
+    padding: 13px 20px 13px 20px;
+}
+
+.action-button_place_cover:hover ~ .cover__overlay {
+    opacity: .3;
+}
+
+@media screen and (min-width: 768px) {
+    .action-button {
+        align-self: flex-start;
+        font-size: 18px;
+        margin-top: 48px;
+        grid-area: button;
+        width: 355px;
+        padding: 13px 20px 13px 20px;
+    }
+
+    .action-button_place_cover {
+        align-self: center;
+        font-size: 18px;
+        font-weight: 21.78px;
+        width: 198px;
+        margin-top: 0;
+    }
+}

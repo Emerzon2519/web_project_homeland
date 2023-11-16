@@ -1,0 +1,9 @@
+.footer {
+    margin-top: 64px;
+    margin-bottom: 24px;
+}
+
+.footer__copyright {
+    color: #ffffff;
+    text-align: center;
+}

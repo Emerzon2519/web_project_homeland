@@ -499,7 +499,7 @@
         width: 984px;
         grid-template-columns:460px 484px;
         margin-bottom: 80px;
-        grid-template-rows: none;
+        grid-template-rows: min-content 460px auto;
     }
 
     .place__title {

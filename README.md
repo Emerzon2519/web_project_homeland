@@ -21,5 +21,5 @@ El proyecto utiliza las siguientes tecnologías y técnicas:
 
 
 ## CONTACTO
-Puedes contactarme a través de mi correo electrónico: the_emerzon1999@hotmail.com o visitar mi perfil de GitHub en [mi perfil de GitHub.] (https://github.com/Emerzon2519)
+Puedes contactarme a través de mi correo electrónico: the_emerzon1999@hotmail.com o visitar mi perfil de GitHub https://github.com/Emerzon2519
 

@@ -514,10 +514,12 @@
     }
 
     .place__paragraphs {
-        margin-top: 0px;  
+        margin-top: 0px;
+        align-self: flex-start;  
     }
 
     .place__paragraph {
+        
         width: 484px;
         line-height: 29.34px;
         font-size: 18px;

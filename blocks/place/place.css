@@ -100,8 +100,8 @@
     .place__image {
         grid-area: image;
         width: 340px;
-        margin-bottom: 0; 
-        height: 340px;
+        margin-bottom: 0px;
+        height: 340px;   
     }
 
     .place__paragraphs {

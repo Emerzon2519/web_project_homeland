@@ -100,13 +100,12 @@
     .place__image {
         grid-area: image;
         width: 340px;
-        margin-bottom: 0px; 
+        margin-bottom: 0; 
         height: 340px;
     }
 
     .place__paragraphs {
         grid-area: paragraphs;
-        /* margin-top: 24px; */
     }
 
     .place__paragraph {
